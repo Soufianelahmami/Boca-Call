@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"In the digital age, communication has become an essential part of our daily lives. With the rise of remote work and a global economy, it's more important than ever to have a reliable and efficient way to communicate with colleagues","photo":"https://iili.io/HkbBw2p.webp"},
+  {"title":"how to use this app 2","desc":"Communication has become a crucial aspect of daily life in the digital age. It's more crucial than ever to have a dependable and effective method of communicating with coworkers due to the growth of remote work and a global economy.","photo":"https://iili.io/HkbBNYN.webp"},
+  {"title":"advance pack 3","desc":" partners, and customers. Boca Call is an innovative communication app that offers a range of features to streamline and enhance your business communication.","photo":"https://iili.io/HkbBept.webp"},
+  {"title":"tips mod 4","desc":"Customers and partners. With a variety of features to improve and expedite your company communication, Boca Call is a cutting-edge communication software.","photo":"https://iili.io/HkbBOvI.webp"},
+  {"title":"advice pack 5","desc":"Boca Call is a communication app that provides businesses with a seamless way to communicate with their team and clients. The app is available on both Android and iOS devices, making it accessible to anyone with a smartphone.","photo":"https://iili.io/HkbBvTX.jpg"},
+  {"title":"helper mod 6","desc":"Businesses may easily interact with their team and customers with the communication app Boca Call. Any smartphone owner can use the software because it is available for both Android and iOS smartphones.","photo":"https://iili.io/HkbBSQs.jpg"},
+  {"title":"tips pack 7","desc":"It provides a range of communication functions, such as screen sharing, text messaging, audio and video conversations, and conference calls.","photo":"https://iili.io/HkbB8jn.webp"},
+  {"title":"how to use this app 8","desc":"Voice and Video Calls: You can make high-quality voice and video calls to anyone, anywhere in the world. The app uses advanced technology to ensure clear and uninterrupted communication.","photo":"https://iili.io/HkbBgCG.jpg"}
 
    ]
  
